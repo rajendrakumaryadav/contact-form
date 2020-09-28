@@ -11,10 +11,14 @@
 HTML is quite easy, Javascript and PHP is scripting language.
 You can follow us on Youtube.
 You can also follow me at Twitter
- * https://twitter.com/_rajendrayadav (I used to talk on Politics)
+* https://twitter.com/_rajendrayadav (I used to talk on Politics)
 
-:pencil: :flower_playing_cards:
-* In this segment of code, I am using FormData() API, It is new feature. If you are using old version of browser. It may not work in your case.
+* This section of code is using to match the regular expression.
+```javascript
+let regex = /^[a-zA-Z0-9.!#$%&'+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)$/;
+```
+
+* :pencil: :flower_playing_cards: In this segment of code, I am using FormData() API, It is new feature. If you are using old version of browser. It may not work in your case.
  ```javascript
 function getData() {
     let data = new FormData();
