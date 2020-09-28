@@ -18,7 +18,7 @@ You can also follow me at Twitter
 let regex = /^[a-zA-Z0-9.!#$%&'+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)$/;
 ```
 
-* :pencil: :flower_playing_cards: In this segment of code, I am using FormData() API, It is new feature. If you are using old version of browser. It may not work in your case.
+* :pencil: :flower_playing_cards: In this segment of code, I am using *FormData()* API, It is new feature. If you are using old version of browser. It may not work in your case.
  ```javascript
 function getData() {
     let data = new FormData();
