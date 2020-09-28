@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="./assets/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/styles/styles.css">
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6 left"></div>
+            <div class="col-6">
+                <form action="" method="POST">
+                    <div class="form-group">
+                        <label for="txtname">Name</label>
+                        <input autocomplete="off" type="text" class="form-control" id="txtname" name="name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="emailField">Email</label>
+                        <input autocomplete="off" type="email" class="form-control" id="emailField" name="email" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="txtsubject">Subject</label>
+                        <input autocomplete="off" type="text" class="form-control" id="txtsubject" name="subject" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="txtareacomment">Comment</label>
+                        <textarea name="comment" class="form-control" placeholder="Your comment please"
+                            id="txtareacomment" cols="30" rows="10"></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-secondary" onsubmit="" name="submit" id="btnSubmit"
+                            value="Send" />
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/scripts/script.js"></script>
+</body>
+
+</html>
