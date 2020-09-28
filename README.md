@@ -3,8 +3,8 @@
 <h5>Contact form using HTML5, CSS (Bootstrap), JavaScript and PHP</h5>
 
 1.  Watch the videos on YouTube
-    * URL: https://www.youtube.com/watch?v=YhL9YAkb7pc
-    * MyChannel : https://www.youtube.com/channel/UCKT8d2zKgg2D-wRxzReNAGA (Subscribe)
+    * :tv: URL: https://www.youtube.com/watch?v=YhL9YAkb7pc
+    * :bell: MyChannel : https://www.youtube.com/channel/UCKT8d2zKgg2D-wRxzReNAGA (Subscribe)
 
 <br/><br/>
 
